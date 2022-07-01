@@ -1,5 +1,5 @@
 # Hardware Monitor
-This is a beautiful Rainmeter skin for a hardware monitor on Windows.
+A beautiful Rainmeter skin for a hardware monitor on Windows.
 
 ## Prerequisite 
 Download and install CoreTemp, then run it in backgorund. 
